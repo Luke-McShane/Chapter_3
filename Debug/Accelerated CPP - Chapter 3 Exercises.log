@@ -1,0 +1,7 @@
+﻿  Accelerated CPP - Chapter 3 Exercises.cpp
+c:\users\luke mcshane\documents\visual studio 2015\projects\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\luke mcshane\documents\visual studio 2015\projects\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises.cpp(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke mcshane\documents\visual studio 2015\projects\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke mcshane\documents\visual studio 2015\projects\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises.cpp(227): warning C4018: '>': signed/unsigned mismatch
+c:\users\luke mcshane\documents\visual studio 2015\projects\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises\accelerated cpp - chapter 3 exercises.cpp(259): warning C4018: '<': signed/unsigned mismatch
+  Accelerated CPP - Chapter 3 Exercises.vcxproj -> C:\Users\Luke McShane\Documents\Visual Studio 2015\Projects\Accelerated CPP - Chapter 3 Exercises\Debug\Accelerated CPP - Chapter 3 Exercises.exe
